@@ -9665,8 +9665,8 @@ header.masthead {
   background-size: cover;
 }
 
-header.masthead h1 {
-  font-size: 28px;
+header.masthead h2 {
+  font-size: 2rem;
 }
 
 @media (min-width: 992px) {
@@ -9679,13 +9679,13 @@ header.masthead h1 {
   header.masthead p {
     font-size: 1.15rem;
   }
-  header.masthead h1 {
+  header.masthead h2 {
     font-size: 3rem;
   }
 }
 
 @media (min-width: 1200px) {
-  header.masthead h1 {
+  header.masthead h2 {
     font-size: 3.5rem;
   }
 }

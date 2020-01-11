@@ -9,8 +9,8 @@ header.masthead {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
-  h1 {
-    font-size: 28px;
+  h2 {
+    font-size: 2rem;
   }
   @include media-breakpoint-up(lg) {
     height: 60vh;
@@ -20,12 +20,12 @@ header.masthead {
     p {
       font-size: 1.15rem;
     }
-    h1 {
+    h2 {
       font-size: 3rem;
     }
   }
   @include media-breakpoint-up(xl) {
-    h1 {
+    h2 {
       font-size: 3.5rem;
     }
   }
