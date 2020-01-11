@@ -9595,7 +9595,6 @@ hr.light {
 }
 
 #mainNav .navbar-brand {
-  font-size: 0.95rem;
   font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
   color: #212529;
@@ -9667,7 +9666,7 @@ header.masthead {
 }
 
 header.masthead h1 {
-  font-size: 2.25rem;
+  font-size: 2rem;
 }
 
 @media (min-width: 992px) {
